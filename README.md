@@ -1,8 +1,8 @@
 ## Hi 👋, Im Léo
 
--🌱 I'm currently learning Web developer
--💬 Ask me about HTML, CSS, Java, MySQL
--📫 How to reach me leodvetech@gmail.com
+-🌱 I'm currently learning Web developer <br>
+-💬 Ask me about HTML, CSS, Java, MySQL <br>
+-📫 How to reach me leodvetech@gmail.com <br>
 
 
 
